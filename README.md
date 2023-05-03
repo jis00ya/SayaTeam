@@ -12,3 +12,6 @@
 안녕 나는 사야양. Sayateam에서 C를 맡고있지
 >>>>>>> 49f34d6914af2d4e3abdfd022bef0f4af3ac0fb6
 >>>>>>> 56f564049375f4bb6b0aaa93bc50b21d1de57662
+
+===
+new update
